@@ -1,0 +1,5 @@
+python-dotenv
+smolagents[toolkit]
+python-docx
+click
+streamlit
