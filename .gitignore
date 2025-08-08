@@ -12,6 +12,12 @@ node_modules/
 # Environment variables
 .env
 
+# Google Service Account files
+service-account.json
+*service-account*.json
+google-credentials.json
+*credentials*.json
+
 # Editor directories and files
 .idea
 .vscode
@@ -28,3 +34,7 @@ node_modules/
 .taskmaster
 venv
 GEMINI.md
+.claude
+__pycache__
+CLAUDE.md
+Copy of internshipjourney - Sheet1.csv
